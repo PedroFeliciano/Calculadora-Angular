@@ -1,5 +1,4 @@
-# Calculadora-Angular
-Um projeto angular para aprender a utilizar a estrutura do framework
+## Um projeto angular para aprender a utilizar a estrutura do framework
 
 Nesse projeto aprendi a utilização de:
 
